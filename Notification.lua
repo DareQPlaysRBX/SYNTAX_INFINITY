@@ -10,9 +10,9 @@ Notification.Notify("[ SYNTAX-INFINITY ]:", "Attached successfully!", "rbxasseti
     },
 
     GradientSettings = {
-        GradientEnabled = false,
+        GradientEnabled = true,
         SolidColorEnabled = true,
-        SolidColor = Color3.fromRGB(170, 170, 170),
+        SolidColor = Color3.fromRGB(150, 83, 240),
         Retract = true
     }
 })
