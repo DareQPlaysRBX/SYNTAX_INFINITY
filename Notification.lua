@@ -10,8 +10,8 @@ Notification.Notify("[ SYNTAX-INFINITY ]:", "Połączono pomyślnie!", "rbxasset
     },
 
     GradientSettings = {
-        GradientEnabled = true,
-        SolidColorEnabled = false,
+        GradientEnabled = false,
+        SolidColorEnabled = true,
         SolidColor = Color3.fromRGB(150, 83, 240),
         Retract = true
     }
