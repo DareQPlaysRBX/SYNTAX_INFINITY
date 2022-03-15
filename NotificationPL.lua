@@ -17,7 +17,7 @@ Notification.Notify("[ SYNTAX-INFINITY ]:", "Połączono pomyślnie!", "rbxasset
     },
     
     IconSettings = {
-		BackgroundTransparency = 1,
-		BackgroundColor3 = Color3.fromRGB(255, 255, 255),				
+	BackgroundTransparency = 1,
+	BackgroundColor3 = Color3.fromRGB(255, 255, 255),				
    }
 })
