@@ -292,7 +292,7 @@ NotificationTable.CreateNotification = function(TitleData, Text, Image, Settings
 	Frame.Visible = false;
     Debug("Frame finished")
 
-	UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 8, 231)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(64, 0, 255))}
+	UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 8, 231)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 0, 255))}
 	UIGradient.Parent = Frame
     Debug("Gradient finished")
 
