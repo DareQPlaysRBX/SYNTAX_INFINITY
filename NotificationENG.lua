@@ -1,5 +1,5 @@
 getgenv().IrisAd = true
-local Notification = loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/IrisBetterNotifications.lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/DareQPlaysRBX/SYNTAX_INFINITY/main/NotificationSource.lua"))()
 
 Notification.Notify("[ SYNTAX-INFINITY ]:", "Attached successfully!", "rbxassetid://9079471692", {
     Duration = 7,
