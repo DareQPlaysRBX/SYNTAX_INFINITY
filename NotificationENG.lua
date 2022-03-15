@@ -1,7 +1,7 @@
 getgenv().IrisAd = true
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/DareQPlaysRBX/SYNTAX_INFINITY/main/IrisSource.lua"))()
 
-Notification.Notify("[ SYNTAX-INFINITY ]:", "Attached successfully!", "rbxassetid://9079471692", {
+Notification.Notify("[ SYNTAX-INFINITY ]:", "Attached successfully!", "rbxassetid://9091857649", {
     Duration = 7,
     
     TitleSettings = {
