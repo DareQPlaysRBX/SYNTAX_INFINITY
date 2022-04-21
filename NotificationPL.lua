@@ -1,1 +1,1 @@
-print("SYNTAX-LOADED")
+print("[SYNTAX]: Połączono Pomyślnie")
