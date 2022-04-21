@@ -1,1 +1,1 @@
-print("[SYNTAX]: Attached Successfully!")
+print("[SYNTAX]: Attached Successfully")
