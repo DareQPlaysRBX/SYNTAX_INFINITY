@@ -1,5 +1,5 @@
-113570_1
-https://cdn.discordapp.com/attachments/1012367000925913128/1023184235718246440/Zeus.dll
+113575_1
+https://raw.githubusercontent.com/DareQPlaysRBX/SYNTAX_INFINITY/main/Requires/Zeus.dll
 false
-113570_H11111111
+113575_H11111111
 dll
