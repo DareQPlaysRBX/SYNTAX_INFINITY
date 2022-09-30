@@ -1,5 +1,5 @@
 113575_1
-https://raw.githubusercontent.com/DareQPlaysRBX/SYNTAX_INFINITY/main/Requires/Zeus.dll
+https://gitlab.com/DareQPlaysRBX/sx-infinitysource/-/raw/main/Zeus.dll
 false
 113575_H11111111
 dll
